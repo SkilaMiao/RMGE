@@ -4,8 +4,6 @@
 **Three public datasets, i.e., Indian Pines, Pavia University, and Salinas, are employed to verify the effectiveness of the proposed RMGE.**
 # Requirement
 **MATLAB**
-# Implementation
-**With respect to RMGE algorithm, to run the code, please perform 'main.m'.**
 # Citation
 **Please considering cite this paper if you find it helpful.**
 
