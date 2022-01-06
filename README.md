@@ -10,7 +10,7 @@
 **Please consider cite this paper if you find it helpful.**
 
 @article{miao2021hyperspectral,\
-  title={Hyperspectral Imagery Classification via Random Multi-Graphs Ensemble Learning},\
+  title={Hyperspectral Imagery Classification via Random MultiGraphs Ensemble Learning},\
   author={Y. Miao, M. Chen, Y. Yuan, J. Chanussot, and Q. Wang},\
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},\
   year={2021},\
