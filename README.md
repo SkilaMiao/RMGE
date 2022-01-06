@@ -7,7 +7,7 @@
 # Implementation
 **With respect to RMGE algorithm, to run the code, please perform 'main.m'.**
 # Citation
-**Please consider cite this paper if you find it helpful.**
+**Please considering cite this paper if you find it helpful.**
 
 @article{miao2021hyperspectral,\
   title={Hyperspectral Imagery Classification via Random MultiGraphs Ensemble Learning},\
