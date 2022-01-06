@@ -5,7 +5,7 @@
 # Requirement
 **MATLAB**
 # Citation
-**Please considering cite this paper if you find it helpful.**
+**Please consider citing this paper if you find it helpful.**
 
 @article{miao2021hyperspectral,\
   title={Hyperspectral Imagery Classification via Random MultiGraphs Ensemble Learning},\
