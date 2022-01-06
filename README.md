@@ -1,11 +1,11 @@
-# Hyperspectral Imagery Classification via RMSE
+# Hyperspectral Imagery Classification via RMGE
 **This is an implementation of Hyperspectral Imagery Classification via Random MultiGraphs Ensemble Learning.**
 # Dataset
-**Three public datasets, i.e., Indian Pines, Pavia University, and Salinas, are employed to verify the effectiveness of the proposed RMSE.**
+**Three public datasets, i.e., Indian Pines, Pavia University, and Salinas, are employed to verify the effectiveness of the proposed RMGE.**
 # Requirement
 **MATLAB**
 # Implementation
-**With respect to RMSE algorithm, to run the code, please perform 'main.m'.**
+**With respect to RMGE algorithm, to run the code, please perform 'main.m'.**
 # Citation
 **Please consider cite this paper if you find it helpful.**
 
