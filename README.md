@@ -7,13 +7,14 @@
 # Citation
 **Please consider citing this paper if you find it helpful.**
 
-@article{miao2021hyperspectral,\
-  title={Hyperspectral Imagery Classification via Random MultiGraphs Ensemble Learning},\
+@article{9645331,\
   author={Y. Miao, M. Chen, Y. Yuan, J. Chanussot, and Q. Wang},\
-  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},\
-  year={2021},\
-  DOI={10.1109/JSTARS.2021.3132993},\
-  publisher={IEEE}\
-}
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, \
+  title={Hyperspectral Imagery Classification via Random Multigraphs Ensemble Learning}, \
+  year={2022},\
+  volume={15},\
+  pages={641-653},\
+  doi={10.1109/JSTARS.2021.3132993}\
+  }
 
 **If you has any questions, please send e-mail to skilamiaomyl@gmail.com.**
